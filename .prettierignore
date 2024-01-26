@@ -1,0 +1,10 @@
+**/node_modules
+**/ios
+**/android
+README.md
+.watchmanconfig
+tsconfig.json
+.eslintrc.js
+.prettierrc.js
+**/.vscode
+**/__tests__

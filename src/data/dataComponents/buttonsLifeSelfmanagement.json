@@ -1,0 +1,336 @@
+[
+  {
+    "profileId": 0,
+    "profileName": "Advance Online",
+    "VidaUSS": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "Biblioteca",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Material de Estudio",
+        "target": "_blank",
+        "linkTo": "https://biblioteca.uss.cl/"
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Imprimir",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Impresiones USS",
+        "target": "_blank",
+        "linkTo": "https://miuss.uss.cl/impresiones/?token=ODc3MjE3MzQ="
+      }
+    ],
+    "Autogestion": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "Mis Aranceles",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Esta sección corresponde a DAFA",
+        "disabled": false,
+        "target": "_blank",
+        "linkTo": "https://miqa.uss.cl/misaranceles"
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Registro Académico",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Mi información",
+        "target": "_blank",
+        "linkTo": "https://miqa.uss.cl/miscalificaciones",
+        "disabled": false
+      },
+      {
+        "id": 3,
+        "variant": "links",
+        "iconLabel": "Becas y financiamiento",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Refuerzo estudiantil",
+        "target": "_blank",
+        "linkTo": "https://admision.uss.cl/becas-y-financiamiento/",
+        "disabled": false
+      },
+      {
+        "id": 4,
+        "variant": "links",
+        "iconLabel": "Autoservicios",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Material de servicio",
+        "target": "_blank",
+        "linkTo": "http://autoservicio.uss.cl/",
+        "borderBottom": false,
+        "disabled": false
+      }
+    ]
+  },
+  {
+    "profileId": 1,
+    "profileName": "Estudiantes",
+    "VidaUSS": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "Biblioteca",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Material de Estudio",
+        "target": "_blank",
+        "linkTo": "https://biblioteca.uss.cl/"
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Imprimir",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Impresiones USS",
+        "target": "_blank",
+        "linkTo": "https://miuss.uss.cl/impresiones/?token=ODc3MjE3MzQ="
+      }
+    ],
+    "Autogestion": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "Mis Aranceles",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Esta sección corresponde a DAFA",
+        "disabled": false,
+        "target": "_blank",
+        "linkTo": "https://miqa.uss.cl/misaranceles"
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Registro Académico",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Mi información",
+        "target": "_blank",
+        "linkTo": "https://miqa.uss.cl/miscalificaciones",
+        "disabled": false
+      },
+      {
+        "id": 3,
+        "variant": "links",
+        "iconLabel": "Becas y financiamiento",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Refuerzo estudiantil",
+        "target": "_blank",
+        "linkTo": "https://admision.uss.cl/becas-y-financiamiento/",
+        "disabled": false
+      },
+      {
+        "id": 4,
+        "variant": "links",
+        "iconLabel": "Autoservicios",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Material de servicio",
+        "target": "_blank",
+        "linkTo": "http://autoservicio.uss.cl/",
+        "borderBottom": false,
+        "disabled": false
+      }
+    ]
+  },
+  {
+    "profileId": 2,
+    "profileName": "Advance Presencial",
+    "VidaUSS": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "Biblioteca",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Material de Estudio",
+        "target": "_blank",
+        "linkTo": "https://biblioteca.uss.cl/"
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Imprimir",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Impresiones USS",
+        "target": "_blank",
+        "linkTo": "https://miuss.uss.cl/impresiones/?token=ODc3MjE3MzQ="
+      }
+    ],
+    "Autogestion": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "Mis Aranceles",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Esta sección corresponde a DAFA",
+        "disabled": false,
+        "target": "_blank",
+        "linkTo": "https://miqa.uss.cl/misaranceles"
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Registro Académico",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Mi información",
+        "target": "_blank",
+        "linkTo": "https://miqa.uss.cl/miscalificaciones",
+        "disabled": false
+      },
+      {
+        "id": 3,
+        "variant": "links",
+        "iconLabel": "Becas y financiamiento",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Refuerzo estudiantil",
+        "target": "_blank",
+        "linkTo": "https://admision.uss.cl/becas-y-financiamiento/",
+        "disabled": false
+      },
+      {
+        "id": 4,
+        "variant": "links",
+        "iconLabel": "Autoservicios",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Material de servicio",
+        "target": "_blank",
+        "linkTo": "http://autoservicio.uss.cl/",
+        "borderBottom": false,
+        "disabled": false
+      }
+    ]
+  },
+  {
+    "profileId": 3,
+    "profileName": "Postgrado",
+    "VidaUSS": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "Biblioteca",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Material de Estudio",
+        "target": "_blank",
+        "linkTo": "https://biblioteca.uss.cl/"
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Imprimir",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Impresiones USS",
+        "target": "_blank",
+        "linkTo": "https://miuss.uss.cl/impresiones/?token=ODc3MjE3MzQ="
+      }
+    ],
+    "Autogestion": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "Mis Aranceles",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Esta sección corresponde a DAFA",
+        "disabled": false,
+        "target": "_blank",
+        "linkTo": "https://miqa.uss.cl/misaranceles"
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Registro Académico",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Mi información",
+        "target": "_blank",
+        "linkTo": "https://miqa.uss.cl/miscalificaciones",
+        "disabled": false
+      },
+      {
+        "id": 3,
+        "variant": "links",
+        "iconLabel": "Becas y financiamiento",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Refuerzo estudiantil",
+        "target": "_blank",
+        "linkTo": "https://admision.uss.cl/becas-y-financiamiento/",
+        "disabled": false
+      },
+      {
+        "id": 4,
+        "variant": "links",
+        "iconLabel": "Autoservicios",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Material de servicio",
+        "target": "_blank",
+        "linkTo": "http://autoservicio.uss.cl/",
+        "borderBottom": false,
+        "disabled": false
+      }
+    ]
+  },
+  {
+    "profileId": 4,
+    "profileName": "Egresados",
+    "VidaUSS": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "Coaching laboral",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Solicita tu asesoría laboral personalizada",
+        "target": "_blank",
+        "linkTo": "https://portalempleo.uss.cl/"
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Vitrina emprendedores USS",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Market place",
+        "target": "_blank",
+        "linkTo": "https://emprende.uss.cl/"
+      },
+      {
+        "id": 3,
+        "variant": "links",
+        "iconLabel": "Actualiza tus datos",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Mantente al día",
+        "target": "_blank",
+        "linkTo": "http://redegresados.uss.cl/uss_exalumnos_emas/encuestaStandalone/"
+      },
+      {
+        "id": 4,
+        "variant": "links",
+        "iconLabel": "Dona tu tiempo",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Dona tu tiempo",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/egresados/dona-tu-tiempo/",
+        "borderBottom": false
+      }
+    ],
+    "Autogestion": [
+      {
+        "id": 1,
+        "variant": "links",
+        "iconLabel": "DAFA",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Dafa",
+        "target": "_blank",
+        "linkTo": "",
+        "disabled": false
+      },
+      {
+        "id": 2,
+        "variant": "links",
+        "iconLabel": "Registro Académico",
+        "iconName": "ri-arrow-right-s-line",
+        "supportingText": "Mantete actualizado",
+        "target": "_blank",
+        "linkTo": "",
+        "borderBottom": false,
+        "disabled": false
+      }
+    ]
+  }
+]

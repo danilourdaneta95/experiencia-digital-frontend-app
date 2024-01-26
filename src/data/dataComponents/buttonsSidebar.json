@@ -1,0 +1,424 @@
+[
+  {
+    "profileId": 0,
+    "profileName": "Advance Online",
+    "content": [
+      {
+        "id": 1,
+        "iconName": "task-line",
+        "labelContent": "Blackboard",
+        "target": "_blank",
+        "linkTo": "https://uss.blackboard.com/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 2,
+        "iconName": "wallet-3-line",
+        "labelContent": "Mis Aranceles",
+        "target": "_self",
+        "linkTo": "https://miqa.uss.cl/misaranceles",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 3,
+        "iconName": "newspaper-line",
+        "labelContent": "Becas y financiamiento",
+        "target": "_blank",
+        "linkTo": "https://admision.uss.cl/becas-y-financiamiento/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home",
+        "content": []
+      },
+      {
+        "id": 4,
+        "iconName": "briefcase-2-line",
+        "labelContent": "Empleo USS",
+        "target": "_blank",
+        "linkTo": "https://portalempleo.uss.cl/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 5,
+        "iconName": "newspaper-line",
+        "labelContent": "Noticias",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/noticias/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 6,
+        "iconName": "calendar-event-line",
+        "labelContent": "Agenda USS",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/actualidad-uss/agenda/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 7,
+        "iconName": "mental-health-line",
+        "labelContent": "Campo Clínico",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/facultades-y-carreras/ciencias-cuidado-salud/campos-clinicos-salud/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 8,
+        "iconName": "chat-smile-line",
+        "labelContent": "Vinculación con el Medio",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/vinculacion-con-el-medio/acerca-de-vcm/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      }
+    ]
+  },
+  {
+    "profileId": 1,
+    "profileName": "Estudiantes",
+    "content": [
+      {
+        "id": 1,
+        "iconName": "task-line",
+        "labelContent": "Classroom",
+        "target": "_blank",
+        "linkTo": "https://srv01.uss.cl/login/login_uss.php",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 2,
+        "iconName": "wallet-3-line",
+        "labelContent": "Mis Aranceles",
+        "target": "_self",
+        "linkTo": "https://miqa.uss.cl/misaranceles",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 3,
+        "iconName": "briefcase-2-line",
+        "labelContent": "Becas y financiamiento",
+        "target": "_blank",
+        "linkTo": "https://admision.uss.cl/becas-y-financiamiento/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 4,
+        "iconName": "briefcase-2-line",
+        "labelContent": "Empleo USS",
+        "target": "_blank",
+        "linkTo": "https://portalempleo.uss.cl/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 5,
+        "iconName": "newspaper-line",
+        "labelContent": "Noticias",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/noticias/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 6,
+        "iconName": "calendar-event-line",
+        "labelContent": "Agenda USS",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/actualidad-uss/agenda/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 7,
+        "iconName": "mental-health-line",
+        "labelContent": "Campo Clínico",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/facultades-y-carreras/ciencias-cuidado-salud/campos-clinicos-salud/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 8,
+        "iconName": "chat-smile-line",
+        "labelContent": "Vinculación con el Medio",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/vinculacion-con-el-medio/acerca-de-vcm/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      }
+    ]
+  },
+  {
+    "profileId": 2,
+    "profileName": "Advance Presencial",
+    "content": [
+      {
+        "id": 1,
+        "iconName": "task-line",
+        "labelContent": "Classroom",
+        "target": "_blank",
+        "linkTo": "https://srv01.uss.cl/login/login_uss.php",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 2,
+        "iconName": "wallet-3-line",
+        "labelContent": "Mis Aranceles",
+        "target": "_self",
+        "linkTo": "https://miqa.uss.cl/misaranceles",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 3,
+        "iconName": "newspaper-line",
+        "labelContent": "Becas y financiamiento",
+        "target": "_blank",
+        "linkTo": "https://admision.uss.cl/becas-y-financiamiento/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 4,
+        "iconName": "briefcase-2-line",
+        "labelContent": "Empleo USS",
+        "target": "_blank",
+        "linkTo": "https://portalempleo.uss.cl/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 5,
+        "iconName": "newspaper-line",
+        "labelContent": "Noticias",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/noticias/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 6,
+        "iconName": "calendar-event-line",
+        "labelContent": "Agenda USS",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/actualidad-uss/agenda/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 7,
+        "iconName": "mental-health-line",
+        "labelContent": "Campo Clínico",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/facultades-y-carreras/ciencias-cuidado-salud/campos-clinicos-salud/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 8,
+        "iconName": "chat-smile-line",
+        "labelContent": "Vinculación con el Medio",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/vinculacion-con-el-medio/acerca-de-vcm/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      }
+    ]
+  },
+  {
+    "profileId": 3,
+    "profileName": "Postgrado",
+    "content": [
+      {
+        "id": 1,
+        "iconName": "task-line",
+        "labelContent": "Classroom",
+        "target": "_blank",
+        "linkTo": "https://srv01.uss.cl/login/login_uss.php",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 2,
+        "iconName": "wallet-3-line",
+        "labelContent": "Mis Aranceles",
+        "target": "_self",
+        "linkTo": "https://miqa.uss.cl/misaranceles",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 3,
+        "iconName": "newspaper-line",
+        "labelContent": "Becas y financiamiento",
+        "target": "_blank",
+        "linkTo": "https://admision.uss.cl/becas-y-financiamiento/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 4,
+        "iconName": "briefcase-2-line",
+        "labelContent": "Empleo USS",
+        "target": "_blank",
+        "linkTo": "https://portalempleo.uss.cl/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 5,
+        "iconName": "newspaper-line",
+        "labelContent": "Noticias",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/noticias/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 6,
+        "iconName": "calendar-event-line",
+        "labelContent": "Agenda USS",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/actualidad-uss/agenda/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 7,
+        "iconName": "mental-health-line",
+        "labelContent": "Campo Clínico",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/facultades-y-carreras/ciencias-cuidado-salud/campos-clinicos-salud/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 8,
+        "iconName": "chat-smile-line",
+        "labelContent": "Vinculación con el Medio",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/vinculacion-con-el-medio/acerca-de-vcm/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      }
+    ]
+  },
+  {
+    "profileId": 4,
+    "profileName": "Egresados",
+    "content": [
+      {
+        "id": 1,
+        "iconName": "ri-apps-line",
+        "labelContent": "Autogestión",
+        "target": "_self",
+        "linkTo": "home",
+        "disabled": false,
+        "isAccordion": true,
+        "pageName": "Home",
+        "content": [
+          {
+            "id": 1,
+            "labelContent": "Autoservicio",
+            "target": "_blank",
+            "linkTo": "http://autoservicio.uss.cl/PROD/twbkwbis.P_GenMenu?name=homepage",
+            "disabled": false,
+            "pageName": "Home"
+          },
+          {
+            "id": 2,
+            "labelContent": "Mis Aranceles",
+            "target": "_self",
+            "linkTo": "https://miqa.uss.cl/misaranceles",
+            "disabled": false,
+            "pageName": "Home"
+          },
+          {
+            "id": 3,
+            "labelContent": "Registro académico",
+            "target": "_self",
+            "linkTo": "https://miqa.uss.cl/miscalificaciones",
+            "disabled": false,
+            "pageName": "Home"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "iconName": "newspaper-line",
+        "labelContent": "Noticias",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/noticias/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 3,
+        "iconName": "chat-check-line",
+        "labelContent": "Vinculación con el Medio",
+        "target": "_blank",
+        "linkTo": "https://www.uss.cl/vinculacion-con-el-medio/acerca-de-vcm/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      },
+      {
+        "id": 4,
+        "iconName": "building-4-line",
+        "labelContent": "Biblioteca",
+        "target": "_blank",
+        "linkTo": "https://biblioteca.uss.cl/",
+        "disabled": false,
+        "isAccordion": false,
+        "pageName": "Home"
+      }
+    ]
+  },
+  {
+    "profileId": 5,
+    "profileName": "Colaborador",
+    "content": []
+  }
+]

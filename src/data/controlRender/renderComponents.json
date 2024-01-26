@@ -1,0 +1,194 @@
+{
+  "MyClasses": [
+    {
+      "id": 0,
+      "profile": "Advance Online",
+      "render": false
+    },
+    {
+      "id": 1,
+      "profile": "Estudiantes",
+      "render": true
+    },
+    {
+      "id": 2,
+      "profile": "Advance Presencial",
+      "render": true
+    },
+    {
+      "id": 3,
+      "profile": "Postgrado",
+      "render": true
+    },
+    {
+      "id": 4,
+      "profile": "Egresados",
+      "render": false
+    },
+    {
+      "id": 5,
+      "profile": "Colaborador",
+      "render": false
+    }
+  ],
+  "JobsUss": [
+    {
+      "id": 0,
+      "profile": "Advance Online",
+      "render": false
+    },
+    {
+      "id": 1,
+      "profile": "Estudiantes",
+      "render": false
+    },
+    {
+      "id": 2,
+      "profile": "Advance Presencial",
+      "render": false
+    },
+    {
+      "id": 3,
+      "profile": "Postgrado",
+      "render": false
+    },
+    {
+      "id": 4,
+      "profile": "Egresados",
+      "render": true
+    },
+    {
+      "id": 5,
+      "profile": "Colaborador",
+      "render": false
+    }
+  ],
+  "MyAccess": [
+    {
+      "id": 0,
+      "profile": "Advance Online",
+      "render": false
+    },
+    {
+      "id": 1,
+      "profile": "Estudiantes",
+      "render": false
+    },
+    {
+      "id": 2,
+      "profile": "Advance Presencial",
+      "render": false
+    },
+    {
+      "id": 3,
+      "profile": "Postgrado",
+      "render": false
+    },
+    {
+      "id": 4,
+      "profile": "Egresados",
+      "render": true
+    },
+    {
+      "id": 5,
+      "profile": "Colaborador",
+      "render": false
+    }
+  ],
+  "ButtonQualification": [
+    {
+      "id": 0,
+      "profile": "Advance Online",
+      "render": true
+    },
+    {
+      "id": 1,
+      "profile": "Estudiantes",
+      "render": true
+    },
+    {
+      "id": 2,
+      "profile": "Advance Presencial",
+      "render": true
+    },
+    {
+      "id": 3,
+      "profile": "Postgrado",
+      "render": true
+    },
+    {
+      "id": 4,
+      "profile": "Egresados",
+      "render": false
+    },
+    {
+      "id": 5,
+      "profile": "Colaborador",
+      "render": false
+    }
+  ],
+  "ButtonActivities": [
+    {
+      "id": 0,
+      "profile": "Advance Online",
+      "render": true
+    },
+    {
+      "id": 1,
+      "profile": "Estudiantes",
+      "render": true
+    },
+    {
+      "id": 2,
+      "profile": "Advance Presencial",
+      "render": true
+    },
+    {
+      "id": 3,
+      "profile": "Postgrado",
+      "render": true
+    },
+    {
+      "id": 4,
+      "profile": "Egresados",
+      "render": false
+    },
+    {
+      "id": 5,
+      "profile": "Colaborador",
+      "render": false
+    }
+  ],
+  "AdvanceOnline": [
+    {
+      "id": 0,
+      "profile": "Advance Online",
+      "render": true
+    },
+    {
+      "id": 1,
+      "profile": "Estudiantes",
+      "render": false
+    },
+    {
+      "id": 2,
+      "profile": "Advance Presencial",
+      "render": false
+    },
+    {
+      "id": 3,
+      "profile": "Postgrado",
+      "render": false
+    },
+    {
+      "id": 4,
+      "profile": "Egresados",
+      "render": false
+    },
+    {
+      "id": 5,
+      "profile": "Colaborador",
+      "render": false
+    }
+  ]
+}

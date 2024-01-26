@@ -1,0 +1,28 @@
+{
+  "profiles": [
+    {
+      "id": 0,
+      "profile": "Advance Online"
+    },
+    {
+      "id": 1,
+      "profile": "Estudiantes"
+    },
+    {
+      "id": 2,
+      "profile": "Advance Presencial"
+    },
+    {
+      "id": 3,
+      "profile": "Postgrado"
+    },
+    {
+      "id": 4,
+      "profile": "Egresados"
+    },
+    {
+      "id": 5,
+      "profile": "Colaborador"
+    }
+  ]
+}

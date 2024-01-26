@@ -1,0 +1,50 @@
+{
+	// Place your GLOBAL snippets here. Each snippet is defined under a snippet name and has a scope, prefix, body and 
+	// description. Add comma separated ids of the languages where the snippet is applicable in the scope field. If scope 
+	// is left empty or omitted, the snippet gets applied to all languages. The prefix is what is 
+	// used to trigger the snippet and the body will be expanded and inserted. Possible variables are: 
+	// $1, $2 for tab stops, $0 for the final cursor position, and ${1:label}, ${2:another} for placeholders. 
+	// Placeholders with the same ids are connected.
+	// Example:
+	// "Print to console": {
+	// 	"scope": "javascript,typescript",
+	// 	"prefix": "log",
+	// 	"body": [
+	// 		"console.log('$1');",
+	// 		"$2"
+	// 	],
+	// 	"description": "Log output to console"
+	// }
+	"Export Default function": {
+		"scope": "javascript,typescript,javascriptreact,typescriptreact",
+		"prefix": "rnedf-",
+		"body": [""
+            ""
+						"import * as React from 'react';"
+						"import {View, StyleSheet} from 'react-native';"
+						""
+						"interface ${1:NameOfComponent}Props {"
+						"	some?: number;"
+						"}"
+						""
+						"interface StylesProps extends ${1:NameOfComponent}Props {"
+						"	color?: string;"
+						"}"
+						""
+						"export default function ${1:NameOfComponent}$0(props: ${1:NameOfComponent}Props) {"
+						"	return ("
+						"		<>"
+						"			<View style={styles(props).container}></View>"
+						"		</>"
+						"	);"
+						"}"
+						""
+						"export const styles = (props: StylesProps) =>"
+						"	StyleSheet.create({"
+						"		container: {},"
+						"	});"
+
+					],
+		"descripcion": "Esto es un Custom Snippedt para RN USS Project. @caray"
+	}
+}

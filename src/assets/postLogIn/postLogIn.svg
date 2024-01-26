@@ -1,0 +1,33 @@
+<svg width="375" height="813" viewBox="0 0 375 813" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0_12073_58992)">
+<rect width="375" height="813" fill="white"/>
+<mask id="path-1-inside-1_12073_58992" fill="white">
+<path d="M0 44H375V108H0V44Z"/>
+</mask>
+<path d="M0 44H375V108H0V44Z" fill="#F9FAFB"/>
+<rect x="242" y="92" width="226" height="32" rx="3" transform="rotate(-180 242 92)" fill="#EEEFF0"/>
+<rect x="359" y="92" width="32" height="32" rx="3" transform="rotate(-180 359 92)" fill="#EEEFF0"/>
+<path d="M375 107H0V109H375V107Z" fill="#EAECF0" mask="url(#path-1-inside-1_12073_58992)"/>
+<rect x="359" y="168" width="283" height="32" rx="3" transform="rotate(-180 359 168)" fill="#EEEFF0"/>
+<circle cx="38" cy="152" r="22" transform="rotate(-180 38 152)" fill="#EEEFF0"/>
+<rect x="359" y="219" width="343" height="30" rx="15" transform="rotate(-180 359 219)" fill="#EEEFF0"/>
+<rect x="16" y="246" width="340" height="215" rx="12" fill="#F5F7F9"/>
+<rect x="32" y="262" width="305" height="24" rx="3" fill="#EAECF0"/>
+<rect x="32" y="302" width="305" height="32" rx="3" fill="#EAECF0"/>
+<rect x="32" y="338" width="290" height="24" rx="3" fill="#EAECF0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M286 371H32V370H286V371Z" fill="#EAECF0"/>
+<rect x="32" y="381" width="305" height="28" rx="14" fill="#EAECF0"/>
+<rect x="32" y="417" width="278" height="28" rx="14" fill="#EAECF0"/>
+<rect x="360" y="501" width="344" height="24" rx="3" transform="rotate(-180 360 501)" fill="#EEEFF0"/>
+<rect x="179" y="649" width="164" height="108" rx="6" transform="rotate(-180 179 649)" fill="#EEEFF0"/>
+<rect x="361" y="649" width="164" height="108" rx="6" transform="rotate(-180 361 649)" fill="#EEEFF0"/>
+<line x1="16" y1="516.5" x2="360" y2="516.5" stroke="#EAECF0"/>
+<rect x="219.5" y="765" width="62" height="62" rx="31" transform="rotate(-180 219.5 765)" fill="#EEEFF0"/>
+<path fill-rule="evenodd" clip-rule="evenodd" d="M188 773C208.743 773 225.799 757.21 227.803 736.994C228.021 734.796 229.791 733 232 733H372C374.209 733 376 734.791 376 737V809C376 811.209 374.209 813 372 813H5C2.79086 813 1 811.209 1 809V737C1 734.791 2.79086 733 5 733H144C146.209 733 147.979 734.796 148.197 736.994C150.201 757.21 167.257 773 188 773Z" fill="#EEEFF0"/>
+</g>
+<defs>
+<clipPath id="clip0_12073_58992">
+<rect width="375" height="813" fill="white"/>
+</clipPath>
+</defs>
+</svg>

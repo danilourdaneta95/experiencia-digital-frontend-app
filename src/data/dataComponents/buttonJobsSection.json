@@ -1,0 +1,28 @@
+{
+  "EgresadosOfertasLaborales": [
+    {
+      "id": 1,
+      "labelText": "Ofertas profesionales",
+      "target": "_blank",
+      "linkTo": "https://portalempleo.uss.cl/"
+    },
+    {
+      "id": 2,
+      "labelText": "Prácticas profesionales ",
+      "target": "_blank",
+      "linkTo": "https://portalempleo.uss.cl/"
+    },
+    {
+      "id": 3,
+      "labelText": "Trabajos part-time",
+      "target": "_blank",
+      "linkTo": "https://portalempleo.uss.cl/"
+    },
+    {
+      "id": 4,
+      "labelText": "Asesoría laboral",
+      "target": "_blank",
+      "linkTo": "https://portalempleo.uss.cl/"
+    }
+  ]
+}

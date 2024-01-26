@@ -1,0 +1,6 @@
+# ESlint files ignore
+
+babel.config.js
+jest.config.js
+react-native.config.js
+index.js
